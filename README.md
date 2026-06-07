@@ -31,8 +31,7 @@ The analysis includes customer demographics, purchasing habits, subscription imp
 
 - Python
 - Pandas
-- NumPy
-- PostgreSQL
+- MySQL
 - Jupyter Notebook
 - Data Visualization Libraries (Matplotlib / Seaborn)
 
@@ -47,7 +46,7 @@ The analysis includes customer demographics, purchasing habits, subscription imp
 4. Feature Engineering
    - Customer Age Groups
    - Purchase Frequency Categories
-5. PostgreSQL Database Integration
+5. MySQL Database Integration
 6. Data Analysis and Visualization
 
 ---
@@ -113,7 +112,7 @@ Data Cleaning
        ↓
 Feature Engineering
        ↓
-PostgreSQL Integration
+MySQL Integration
        ↓
 Exploratory Data Analysis
        ↓
